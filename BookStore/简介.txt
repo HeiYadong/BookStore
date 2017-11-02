@@ -1,0 +1,8 @@
+写BaseServlet用来存放servlet请求
+
+
+使用EL表达式
+
+到JSP2.0以后，在JSP中不建议使用jsp脚本片段和jsp表达式
+-所以我们使用EL表达式来替换jsp表达式，用标签（JSTL）替换jsp脚本片段
+-EL表达式用来将一个对象输出到页面中
